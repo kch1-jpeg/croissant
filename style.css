@@ -2,16 +2,13 @@ body {
   background: orange;
 }
 
-.img {
-  width: 600px;
-}
 .links {
   border: 5px solid white;
   display: flex;
   justify-content: space-evenly;
   color: white;
 }
-a{
-    text-decoration:none;
-    color:red;
+a {
+  text-decoration: none;
+  color: red;
 }
